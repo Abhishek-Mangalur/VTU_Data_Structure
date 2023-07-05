@@ -16,5 +16,5 @@ int main()
     printf("8. %x\n",*p);   // variable value in pure hexadecimal
     printf("9. %d\n",&p);   // pointer address
     printf("10. %d\n",&*p); // variable address
-    return 0;
+    return 0; 
 }
