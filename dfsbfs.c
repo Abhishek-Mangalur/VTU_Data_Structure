@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #define MAX_CITIES 25
 int adj_matrix[MAX_CITIES][MAX_CITIES];
-int visited[MAX_CITIES];
+int visited[MAX_CITIES]; 
 
 void add_edge(int start, int end)
 {
